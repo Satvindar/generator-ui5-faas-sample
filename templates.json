@@ -1,0 +1,8 @@
+{
+  "templates": [
+    {
+      "name":"Faas Application",
+      "path": "/generators/app"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Satvindar Singh Chug",
+      "authorEmail": "satvindar.chug@sap.com",
+      "authorUrl": ""
+    }
+  }
+}
