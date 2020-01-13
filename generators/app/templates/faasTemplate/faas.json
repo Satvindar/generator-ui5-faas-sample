@@ -1,0 +1,22 @@
+{
+	"project": "<%- projectName %>",
+	"version": "0.0.1",
+	"runtime": "<%- runtime %>",
+	"library": "./lib",
+	"secrets": {},
+	"configs": {},
+	"functions": {
+		"<%- functionName %>": {
+			"module": "index.js",
+			"handler": "handler",
+			"secrets": [],
+			"configs": []
+		}
+	},
+	"triggers": {
+		"<%- triggerName %>": {
+			"type": "<%- triggerType %>",
+			"function": "<%- functionName %>"
+		}
+	}
+}
