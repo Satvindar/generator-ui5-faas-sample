@@ -1,5 +1,5 @@
 {
-  "name": "faas-npm-on-dmz-sample",
+  "name": "generator-faas-npm-on-dmz-sample",
   "displayName": "faas-npm-on-dmz-sample",
   "version": "1.0.0",
   "description": "Hello World example for Faas on Npm DMZ",
