@@ -7,13 +7,13 @@ First, install [Yeoman](http://yeoman.io) and generator-ui-5-faastest using [npm
 
 ```bash
 npm install -g yo
-npm install -g generator-ui-5-faastest
+npm install -g faas-npm-on-dmz-sample
 ```
 
 Then generate your new project:
 
 ```bash
-yo ui-5-faastest
+yo faas-npm-on-dmz-sample
 ```
 
 ## Getting To Know Yeoman
