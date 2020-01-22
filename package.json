@@ -1,20 +1,21 @@
 {
-  "name": "generator-ui-5-samplefaas",
-  "version": "0.0.0",
-  "description": "this is functions generator",
+  "name": "faas-npm-on-dmz-sample",
+  "displayName": "faas-npm-on-dmz-sample",
+  "version": "1.0.0",
+  "description": "Hello World example for Faas on Npm DMZ",
   "homepage": "",
-  "author": {
-    "name": "Satvindar Singh Chug",
-    "email": "satvindar.chug@sap.com",
-    "url": ""
-  },
+  "author": "SAP",
+  "license": "SAP",
+  "repository": "https://github.com/Satvindar/generator-ui5-faas-sample",
   "files": [
-    "generators"
+    "generators",
+    "templates.json"
   ],
   "main": "generators/index.js",
   "keywords": [
     "",
-    "yeoman-generator"
+    "yeoman-generator",
+    "templates"
   ],
   "devDependencies": {
     "yeoman-test": "^1.7.0",
@@ -74,7 +75,5 @@
   "scripts": {
     "pretest": "eslint .",
     "test": "jest"
-  },
-  "repository": "Satvindar/generator-ui-5-samplefaas",
-  "license": "Apache-2.0"
+  }
 }
